@@ -2,7 +2,7 @@
   "name": "air-bnb",
   "version": "0.1.0",
   "private": true,
-  "homepage:": "https://RaihanSyahSP.github.io",
+  "homepage": "https://RaihanSyahSP.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",
